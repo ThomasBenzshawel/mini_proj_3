@@ -2,3 +2,6 @@ training2017/*
 .conda
 *.ipynb_checkpoints
 __pycache__/
+X_resampled.npy
+y_resampled.npy
+best_model.pth
